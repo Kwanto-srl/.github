@@ -12,6 +12,7 @@ Kwanto Data opera in ambito
 - 📣 Marketing
 - 📞 Telecommunication
 
+and more.
 ---
 
 ### We are currently looking for
