@@ -5,11 +5,12 @@
 Nel 2024 viene costruita la business unit **Data**, con l’ottica di espandere i servizi offerti al mondo della Data Science.
 
 ---
-Operiamo in ambito
-- 💵 Finance
+Kwanto Data opera in ambito
+- 💰 Finance
 - 💡 Energy
-- 📻 Telecommunication
 - 📦 Retail
+- 📣 Marketing
+- 📞 Telecommunication
 
 ---
 
