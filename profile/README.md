@@ -24,14 +24,3 @@ and more.
 ### Keep in touch 📫 
 Feel free to drop in our DM in <a href="https://www.linkedin.com/company/kwanto-srl/">LinkedIn</a> or send me an email @ <a href=mailto:a.pastelli@kwanto.it>Kwanto Data</a>
 
-## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/pstndr?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/pstndr?tab=followers"><img align="right" src="https://img.shields.io/github/followers/pstndr?label=Followers&style=social" alt="GitHub Badge"></a>
-
-<p>
-  <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwanto-srl&langs_count=8&theme=onedark" />
-</p>
-
-<a href="https://github.com/pstndr"><img align="left" alt="Kwanto's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Kwanto-srl&show_icons=true&count_private=true&theme=onedark" /></a>
-
-<br />
